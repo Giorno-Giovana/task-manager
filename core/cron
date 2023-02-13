@@ -1,1 +1,2 @@
-* * * * * python3 main.py
+* * * * * bash /task-manager/script.sh
+* * * * * python3 /task-manager/main.py
