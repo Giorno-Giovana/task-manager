@@ -1,4 +1,4 @@
-from core.tests_old import time
+import time
 
 if __name__ == "__main__":
     while 1>0:
