@@ -1,1 +1,1 @@
-* * * * * python /task-manager/core/main.py
+* * * * * /usr/local/bin/python /task-manager/core/main.py >> /task-manager/log 2>&1
