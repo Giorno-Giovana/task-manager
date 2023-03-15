@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other
+.gitignore
+help.txt
+resources
+tests_old
+Dockerfile
+adapters/telegram_test.py

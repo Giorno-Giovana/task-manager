@@ -7,5 +7,4 @@ class Adapter(ABC):
 
     @abstractmethod
     def send(message):
-        with open('/task-manager/data/test', 'a', encoding='utf-8') as file:
-            file.write('Сообщение: "' + message + '" не отправлено\n')
+        pass
