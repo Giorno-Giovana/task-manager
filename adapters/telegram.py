@@ -1,4 +1,4 @@
-from adapters.adapter import Adapter
+from adapter import Adapter
 
 
 class Telegram(Adapter):

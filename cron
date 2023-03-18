@@ -1,1 +1,1 @@
-* * * * * /usr/local/bin/python /task-manager/main.py >> /task-manager/log 2>&1
+* * * * * PYTHONPATH=/task-manager:/task-manager/core:/task-manager/adapters /usr/local/bin/python /task-manager/core/main.py >> /task-manager/log 2>&1

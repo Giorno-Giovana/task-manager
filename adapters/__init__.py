@@ -1,2 +1,2 @@
-from adapters.telegram import Telegram
-from adapters.mail import Mail
+from telegram import Telegram
+from mail import Mail
